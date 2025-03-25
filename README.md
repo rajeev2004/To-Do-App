@@ -6,6 +6,8 @@ A simple To-Do application built with React, designed to manage tasks, mark them
 
 - **Task Management**: Add, delete, mark as complete, and mark as important.
 - **Task Filters**: Filter tasks based on their completion status or importance.
+- **Task Labeling**: Label tasks as "Indoor" or "Outdoor."
+- **Weather Details**: If a task is labeled as "Outdoor," the application fetches and displays real-time weather details using       OpenWeatherMap API.
 - **Local Storage**: Tasks are saved in `localStorage`, ensuring persistence across sessions.
 - **Responsive UI**: Built using React and styled with CSS.
 
@@ -16,6 +18,7 @@ A simple To-Do application built with React, designed to manage tasks, mark them
 - **State Management**: React useState, useEffect hooks
 - **Routing**: React Router
 - **Local Storage**: Tasks are stored in the browser’s localStorage.
+- **Weather API**: OpenWeatherMap API for fetching weather details for outdoor tasks.
 
 ## Getting Started
 
