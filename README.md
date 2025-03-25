@@ -59,6 +59,6 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
 
 ## Demo
 
-You can check out the live website [here](https://rajeev2004.github.io/ToDo-App/).
+You can check out the live website [here](https://rajeev2004.github.io/To-Do-App/).
 
 ![ToDo Application Screenshot](https://raw.githubusercontent.com/rajeev2004/To-Do-App/refs/heads/main/src/assets/Screenshot%202025-01-16%20000057.png?raw=true)
