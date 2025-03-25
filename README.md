@@ -28,12 +28,12 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rajeev2004/ToDo-App.git
+   git clone https://github.com/rajeev2004/To-Do-App.git
 
 2. Navigate into the project directory:
     
     ```bash
-    cd ToDo-App
+    cd To-Do-App
 
 3. Install dependencies:
 
@@ -55,7 +55,7 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
     ```bash
     npm run deploy
 
-7. Your app will be deployed at https://<your-username>.github.io/ToDo-App
+7. Your app will be deployed at https://<your-username>.github.io/To-Do-App
 
 ## Demo
 
